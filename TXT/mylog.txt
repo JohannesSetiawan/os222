@@ -2,3 +2,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 11 L03 GitHub os222 repository related
+ZCZC W00 24 L04 GitHub Pages related (create github pages for os222)
