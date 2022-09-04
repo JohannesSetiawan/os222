@@ -1,5 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-ZCZC W00 11 L03 GitHub os222 repository related
-ZCZC W00 24 L04 GitHub Pages related (create github pages for os222)
+ZCZC W00 30 L21 Trying GitHub
+ZCZC W00 60 L10 Reading about Assigments #00 and doing it
+ZCZC W00 15 L03 GitHub os222 repository related
+ZCZC W00 25 L04 GitHub Pages related (create github pages for os222)
+ZCZC W00 90 L01 Checking SCELE
+ZCZC W00 200 L02 Online Class Meetings
+ZCZC W00 45 L05 Studying and Doing Quizz
+ZCZC W00 25 L41 Doing TXT/mylog.txt for Week 00
+ZCZC W00 240 Reading W00 Materials (Slide, Reference text book, etc.)
