@@ -11,10 +11,10 @@ ZCZC W00 45 L05 Studying and Doing Quizz
 ZCZC W00 25 L41 Doing TXT/mylog.txt for Week 00
 ZCZC W00 240 L06 Reading W00 Materials (Slide, Reference text book, etc.)
 ZCZC W01 200 L02 Online Class Meetings
-ZCZC W01 60 L01 Checking SCELE
+ZCZC W01 45 L01 Checking SCELE
 ZCZC W01 30 L05 Studying and Doing Quiz Week 01
 ZCZC W01 120 L61 Installing VirtualBox
-ZCZC W01 180 L31 Installing, Running, Dressing Up, and Trying VirtualBox
+ZCZC W01 180 L31 Running, Dressing Up, and Trying VirtualBox
 ZCZC W01 30 L08 Asking a friend about assignments Week 01
 ZCZC W01 30 L41 Editing mylog.txt for Week 01 Log
 ZCZC W01 30 L61 Back Up VirtualBox
