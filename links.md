@@ -17,10 +17,18 @@ permalink: LINKS/
 ### Week 01
 
 1. [VirtualBox Manual](https://www.virtualbox.org/manual/)<br>
-This is site for the manual for VirtualBox. It's a helpful guide for using VirtualBox.
+Situs ini berisi tentang manual dari VirtualBox. Situs ini berguna dalam membantu penggunaan VirtualBox
 
 2. [Regex Tutorial](https://www.rexegg.com/)<br>
-This is a site for Regex Tutorial. It is also has a regex cheatsheet. It's a great website for regex lovers (and user of course).
+Situs ini berisi tutorial tentang regrex beserta cheatsheetnya. Cukup membantu bagi orang yang baru pertama kali belajar Regex.
+
+## Week 02
+
+1. [Vim Editor Guide}(https://phoenixnap.com/kb/vim-commands-cheat-sheet)<br>
+Situs ini berisi guide untuk Vim editor yang ada di Linux. Cukup membantu sata ingin meng-edit file di vim editor.
+
+2. [Change Permission in Linux](https://www.hostinger.co.id/tutorial/pengertian-chmod-dan-chown-untuk-ganti-permission-di-linux/)<br>
+Link ini berisi beberapa command untuk mengganti permission di Linux. Cukup membantu dalam memanipulasi permission suatu file di linux.
 
 <br>
 <hr>
