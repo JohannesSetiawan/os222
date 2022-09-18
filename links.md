@@ -24,7 +24,7 @@ Situs ini berisi tutorial tentang regrex beserta cheatsheetnya. Cukup membantu b
 
 ## Week 02
 
-1. [Vim Editor Guide}(https://phoenixnap.com/kb/vim-commands-cheat-sheet)<br>
+1. [Vim Editor Guide](https://phoenixnap.com/kb/vim-commands-cheat-sheet)<br>
 Situs ini berisi guide untuk Vim editor yang ada di Linux. Cukup membantu sata ingin meng-edit file di vim editor.
 
 2. [Change Permission in Linux](https://www.hostinger.co.id/tutorial/pengertian-chmod-dan-chown-untuk-ganti-permission-di-linux/)<br>
