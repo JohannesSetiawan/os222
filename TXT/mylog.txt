@@ -1,4 +1,4 @@
-# Log Format
+Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 30 L21 Trying GitHub
@@ -19,3 +19,16 @@ ZCZC W01 30 L08 Asking a friend about assignments Week 01
 ZCZC W01 30 L41 Editing mylog.txt for Week 01 Log
 ZCZC W01 30 L61 Back Up VirtualBox
 ZCZC W01 30 L11 Read assignments #01
+ZCZC W02 30 L01 Checking OS SCELE and Discord
+ZCZC W02 200 L02 WEEK02 synchronous zoom meetings
+ZCZC W02 5 L03 pull, add, commit, push to Github for Assignments #02
+ZCZC W02 45 L05 Studying and doing Quiz WEEK02
+ZCZC W02 180 L06 Reading OS materials for WEEK02
+ZCZC W02 20 L08 Asking a friend about Assignment #02
+ZCZC W02 30 L12 Reading Assignment #02 requirements.
+ZCZC W02 20 L22 Working on WEEK02.tar.bz2.asc
+ZCZC W02 30 L26 Generate GPG key for JohannesSetiawan@localhost
+ZCZC W02 20 L41 Updating TXT/mylog.txt
+ZCZC W02 5 L42 Creating TXT/mypubkey.txt
+ZCZC W02 45 L43 Creating and filling TXT/myrank.txt.
+ZCZC W02 20 L44 Creating and running TXT/myscript.sh 
