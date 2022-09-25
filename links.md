@@ -32,6 +32,9 @@ Link ini berisi beberapa command untuk mengganti permission di Linux. Cukup memb
 
 ## Week 03
 
+1. [File System Explanation](https://www.scaler.com/topics/file-systems-in-os/)<br>
+Link ini berisi tentang penjelasan file system yang dipelajari pada mata kuliah Operating Systems. Link ini berguna untuk ringkasan dari materi ini.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

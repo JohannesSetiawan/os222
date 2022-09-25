@@ -32,3 +32,16 @@ ZCZC W02 20 L41 Updating TXT/mylog.txt
 ZCZC W02 5 L42 Creating TXT/mypubkey.txt
 ZCZC W02 45 L43 Creating and filling TXT/myrank.txt.
 ZCZC W02 20 L44 Creating and running TXT/myscript.sh 
+ZCZC W03 100 L00 Offline class meeting
+ZCZC W03 30 L01 Checking Operating System SCELE and Discord
+ZCZC W03 100 L02 Online class meetings
+ZCZC W03 10 L03 Pull, add, commit, and push assignment to GitHub
+ZCZC W03 60 L05 Studying and doing Quiz 1 and 2 WEEK03
+ZCZC W03 120 L06 Reading some material about WEEK03 topics
+ZCZC W03 30 L07 Doing some demo.
+ZCZC W03 20 L08 Asking friends about WEEK03 assignment
+ZCZC W03 150 L13 Reading and doing assignment WEEK03
+ZCZC W03 5 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 25 L41 Updating TXT/mylog.txt
+ZCZC W03 30 L43 Do some peer review and updating TXT/myrank.txt
+ZCZC W03 10 L44 run TXT/myscript.sh for WEEK03
