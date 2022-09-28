@@ -35,6 +35,11 @@ Link ini berisi beberapa command untuk mengganti permission di Linux. Cukup memb
 1. [File System Explanation](https://www.scaler.com/topics/file-systems-in-os/)<br>
 Link ini berisi tentang penjelasan file system yang dipelajari pada mata kuliah Operating Systems. Link ini berguna untuk ringkasan dari materi ini.
 
+## Week 04
+
+1. [Linux Shell Command Explainer] (https://explainshell.com/)<br>
+Link ini berguna untuk mengecek apa yang dijalankan oleh suatu linux shell command. Penjelasannya lengkap sehingga enak untuk mencari tahu kegunaan dari suatu shell command.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
