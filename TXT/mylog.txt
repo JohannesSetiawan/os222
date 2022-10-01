@@ -45,3 +45,16 @@ ZCZC W03 5 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 25 L41 Updating TXT/mylog.txt
 ZCZC W03 30 L43 Do some peer review and updating TXT/myrank.txt
 ZCZC W03 10 L44 run TXT/myscript.sh for WEEK03
+ZCZC W04 100 L00 WEEK04 Offline class meetings
+ZCZC W04 45 L01 Checking OS SCELE/Discord
+ZCZC W04 100 L02 ZOOM WEEK04 Online class meetings
+ZCZC W04 5 L03 Do pull, add, commit, and push to github for WEEK04
+ZCZC W04 120 L05 Studying and doing WEEK04 Quiz 01 and 02
+ZCZC W04 120 L06 Reading WEEK04 materials
+ZCZC W04 60 L07 Doing WEEK04 demos
+ZCZC W04 25 L14 Reading requirements and doing assignment #04
+ZCZC W04 10 L25 Creating C program file and a Makefile for WEEK-4 Pop Quiz
+ZCZC W04 5 L26 Encrypt a directory for WEEK04 Pop Quiz and checking whether the encryption right or not
+ZCZC W04 20 L41 Updating mylog.txt
+ZCZC W04 30 L43 Peer review and updating myrank.txt
+ZCZC W04 15 L62 Backup Virtual Debian Guest after doing WEEK04 assignments
