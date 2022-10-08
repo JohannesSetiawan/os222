@@ -58,3 +58,14 @@ ZCZC W04 5 L26 Encrypt a directory for WEEK04 Pop Quiz and checking whether the 
 ZCZC W04 20 L41 Updating mylog.txt
 ZCZC W04 30 L43 Peer review and updating myrank.txt
 ZCZC W04 15 L62 Backup Virtual Debian Guest after doing WEEK04 assignments
+ZCZC W05 100 L00 WEEK05 Offline class meetings
+ZCZC W05 45 L01 Checking OS SCELE/Discord
+ZCZC W05 100 L02 ZOOM WEEK05 Online class meetings
+ZCZC W05 5 L03 Do pull, add, commit, and push to github for WEEK05
+ZCZC W05 100 L05 Studying and doing WEEK05 Quiz 01 and 02
+ZCZC W05 100 L06 Reading WEEK05 materials
+ZCZC W05 60 L07 Doing WEEK05 demos
+ZCZC W05 25 L14 Reading requirements and doing assignment #05
+ZCZC W05 15 L41 Updating mylog.txt
+ZCZC W05 35 L43 Peer review and updating myrank.txt
+ZCZC W05 15 L62 Backup Virtual Debian Guest after doing WEEK05 assignments
