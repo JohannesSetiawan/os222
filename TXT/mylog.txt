@@ -69,3 +69,14 @@ ZCZC W05 25 L14 Reading requirements and doing assignment #05
 ZCZC W05 15 L41 Updating mylog.txt
 ZCZC W05 35 L43 Peer review and updating myrank.txt
 ZCZC W05 15 L62 Backup Virtual Debian Guest after doing WEEK05 assignments
+ZCZC W06 100 L00 WEEK06 Offline class meetings
+ZCZC W06 45 L01 Checking OS SCELE/Discord
+ZCZC W06 100 L02 ZOOM WEEK06 Online class meetings
+ZCZC W06 5 L03 Do pull, add, commit, and push to github for WEEK06
+ZCZC W06 90 L05 Studying and doing WEEK06 Quiz 01 and 02
+ZCZC W06 100 L06 Reading WEEK06 materials
+ZCZC W06 60 L07 Doing WEEK06 demos
+ZCZC W06 25 L14 Reading requirements and doing assignment #06
+ZCZC W06 15 L41 Updating mylog.txt
+ZCZC W06 40 L43 Peer review and updating myrank.txt
+ZCZC W06 15 L62 Backup Virtual Debian Guest after doing WEEK05 assignments
