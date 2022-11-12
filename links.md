@@ -50,6 +50,14 @@ Link ini berisi penjelasan tentang virtual memory. Link ini tetap mudah untuk di
 1. [Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 Link ini berisi ringkasan tentang processes pada sistem operasi. Link ini cukup berguna untuk memahami process pada sistem operasi secara singkat.
 
+## Week 07
+
+1. [Process Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+Link ini berisi ringkasan tentang proses Synchronization pada sistem operasi. Cukup membantu untuk memahami proses tersebut.
+
+2. [Deadlock](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+Link ini berisi ringkasan tentang Deadlock pada sistem operasi. Cukup membantu untuk memahami Deadlock secara singkat.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
