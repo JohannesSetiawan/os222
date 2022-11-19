@@ -58,6 +58,11 @@ Link ini berisi ringkasan tentang proses Synchronization pada sistem operasi. Cu
 2. [Deadlock](https://www.guru99.com/deadlock-in-operating-system.html)<br>
 Link ini berisi ringkasan tentang Deadlock pada sistem operasi. Cukup membantu untuk memahami Deadlock secara singkat.
 
+## Week 08
+
+1. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
+Link ini berisi penjelasan tentang CPU Scheduling. Cukup berguna untuk memahami scheduling.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
