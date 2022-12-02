@@ -63,6 +63,11 @@ Link ini berisi ringkasan tentang Deadlock pada sistem operasi. Cukup membantu u
 1. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
 Link ini berisi penjelasan tentang CPU Scheduling. Cukup berguna untuk memahami scheduling.
 
+## Week 09
+
+1. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+Link ini berisi penjelasan tentang Mass-Storage Structure dalam OS. Link ini berguna sebagai ringkasan yang baik.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
